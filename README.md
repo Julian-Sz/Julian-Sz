@@ -1,7 +1,7 @@
 ### - 👋 Hi, I’m @Julian-Sz
 - 👀 I’m interested in coding and web development.
 - 🌱 I’m currently learning Bootstrap and React.
-- 💞️ I’m looking to collaborate on web projects
+- 💻 I’m looking to collaborate on web projects
 
 Visit some of my projects here:
 - https://julian-sz.github.io/Bootstrap-Test/
