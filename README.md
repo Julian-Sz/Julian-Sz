@@ -6,7 +6,10 @@
 Visit some of my projects here:
 - https://julian-sz.github.io/Bootstrap-Test/
 - https://julian-sz.github.io/FCC-Drum-Machine/
+- https://julian-sz.github.io/FCC-Calculator/
+- https://julian-sz.github.io/FCC-Pomodoro-Clock/
 - https://codepen.io/julian-sz
+
 
 <!---
 Julian-Sz/Julian-Sz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
