@@ -1,6 +1,6 @@
 ### - 👋 Hi, I’m @Julian-Sz
 - 👀 I’m interested in coding and web development.
-- 🌱 I’m currently learning Bootstrap and React.
+- 🌱 I’m currently learning Three.js with React-Three-Fiber.
 - 💻 I’m looking to collaborate on web projects
 
 Visit some of my projects here:
@@ -9,6 +9,7 @@ Visit some of my projects here:
 - https://julian-sz.github.io/FCC-Calculator/
 - https://julian-sz.github.io/FCC-Pomodoro-Clock/
 - https://codepen.io/julian-sz
+- https://replit.com/@JulianSzigethy
 
 
 <!---
