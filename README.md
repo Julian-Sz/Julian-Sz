@@ -4,6 +4,7 @@
 - 💻 I’m looking to collaborate on web projects
 
 Visit some of my projects here:
+- https://julian-sz.github.io/Ice-Cream-Shop/
 - https://julian-sz.github.io/Bootstrap-Test/
 - https://julian-sz.github.io/FCC-Drum-Machine/
 - https://julian-sz.github.io/FCC-Calculator/
