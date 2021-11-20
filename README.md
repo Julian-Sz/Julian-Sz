@@ -1,6 +1,6 @@
 ### - 👋 Hi, I’m @Julian-Sz
 - 👀 I’m interested in coding and web development.
-- 🌱 I’m currently learning Node.js and Express.
+- 🌱 I’m currently learning Next.js.
 - 💻 I’m looking to collaborate on web projects
 
 Visit some of my projects here:
